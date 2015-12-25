@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\yzhuo\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\week 06\homework4\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-1512f567a4e72d965c16ffd15e29f540bb7a77ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\week 06\homework4\app\libs\gson-2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\week 06\homework4\app\build\intermediates\pre-dexed\debug\gson-2.4-74cd2446382716587e21f58e6eef01bc47ae8a61.jar" />
+    </item>
+    <item
+        jar="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\week 06\homework4\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\week 06\homework4\app\build\intermediates\pre-dexed\debug\classes-a359b3b21f80c67ae77aa77549ed115979506d62.jar" />
+    </item>
+    <item
+        jar="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\week 06\homework4\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\week 06\homework4\app\build\intermediates\pre-dexed\debug\classes-5aab62f54704dab6eee82ab4a61c201eb5dd6f31.jar" />
+    </item>
+    <item
+        jar="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\week 06\homework4\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\week 06\homework4\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-15ec08b9cc5eb335e59442d62160c8cde3d96090.jar" />
+    </item>
+    <item
+        jar="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\week 06\homework4\app\libs\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\week 06\homework4\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-6b5079273d316c97bad2d999da0b06d97eec9414.jar" />
+    </item>
+
+</items>
